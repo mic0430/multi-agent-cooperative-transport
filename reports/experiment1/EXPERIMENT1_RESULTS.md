@@ -1,4 +1,4 @@
-# Experiment 1 — MADDPG vs Independent DDPG on Simple Spread
+﻿# Experiment 1 — MADDPG vs Independent DDPG on Simple Spread
 
 ## Purpose
 
